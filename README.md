@@ -1,2 +1,5 @@
 # P9-Shaders
-Created with CodeSandbox
+Se ha creado con un shader simple un efecto óptico tipo espiral
+
+# Demo en video
+link de descarga: https://github.com/OmarOrtS/P9-Shaders/releases/download/Demo/2025-11-20.19-21-14.mkv
